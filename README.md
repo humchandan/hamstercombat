@@ -1,3 +1,10 @@
+
+Watch video 👉 https://youtu.be/vAWgXQ083ng
+
+Contact dev 👉 https://t.me/automatecrypto
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
